@@ -15,16 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CHapter5_09.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Chapter5_01.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Chapter5_02.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="CHapter5_03.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Chapter5_04.c">
@@ -40,6 +34,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Chapter5_08.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter5_03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter5_09.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
