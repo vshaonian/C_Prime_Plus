@@ -33,10 +33,10 @@
     <ClCompile Include="Chapter4_05.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="CHapter4_06.c">
+    <ClCompile Include="Chapter4_07.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter4_07.c">
+    <ClCompile Include="Chapter4_06.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

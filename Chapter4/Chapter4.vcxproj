@@ -24,7 +24,7 @@
     <ClCompile Include="Chapter4_03.c" />
     <ClCompile Include="Chapter4_04.c" />
     <ClCompile Include="Chapter4_05.c" />
-    <ClCompile Include="CHapter4_06.c" />
+    <ClCompile Include="Chapter4_06.c" />
     <ClCompile Include="Chapter4_07.c" />
     <ClCompile Include="Chapter4_08.c" />
   </ItemGroup>
