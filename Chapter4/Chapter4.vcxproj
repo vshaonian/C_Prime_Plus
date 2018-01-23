@@ -18,6 +18,16 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter4_01.c" />
+    <ClCompile Include="Chapter4_02.c" />
+    <ClCompile Include="Chapter4_03.c" />
+    <ClCompile Include="Chapter4_04.c" />
+    <ClCompile Include="Chapter4_05.c" />
+    <ClCompile Include="CHapter4_06.c" />
+    <ClCompile Include="Chapter4_07.c" />
+    <ClCompile Include="Chapter4_08.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{BFE5B6F7-5CBE-4000-B99E-EF874E8F2602}</ProjectGuid>
@@ -138,8 +148,6 @@
       <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

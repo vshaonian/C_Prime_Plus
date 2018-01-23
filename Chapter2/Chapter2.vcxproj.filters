@@ -18,5 +18,26 @@
     <ClCompile Include="Chapter2_08.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter2_01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter2_02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter2_03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter2_04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter2_05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CHapter2_06.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter2_07.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
